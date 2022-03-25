@@ -15,7 +15,7 @@ public class ArrayListConcept {
         list.add(true);
 
         System.out.println(list.get(0));
-        System.out.println("sample");
+        System.out.println("sample code change");
         System.out.println("The size of array list is :" + list.size());
 
         for(int i=0;i< list.size();i++){
