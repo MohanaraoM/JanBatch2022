@@ -1,0 +1,21 @@
+{
+  "registrationdetails": [
+    {
+      "Login": "abc@gmail.com",
+      "Browser": "Chrome",
+      "FirstName": "TestWebsite",
+      "LastName": "Bugs",
+      "Password": "pass@1234",
+      "ConfirmPassword": "pass@1234"
+    },
+    {
+      "Login": "abc@gmail.com",
+      "Browser": "Mozilla",
+      "FirstName": "TestWebsite",
+      "LastName": "Bugs",
+      "Password": "pass@1234",
+      "ConfirmPassword": "pass@1234"
+    }
+  ]
+
+}
